@@ -1,0 +1,1 @@
+UniformsStorage<'_, Matrix<{float}, Const<4>, Const<4>, ArrayStorage<{float}, 4, 4>>, UniformsStorage<'_, _, UniformsStorage<'_, _, EmptyUniforms>>>

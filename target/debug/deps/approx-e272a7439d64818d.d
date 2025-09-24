@@ -1,0 +1,11 @@
+C:\Users\Calum\Desktop\Uni Year 2\rust final lab\target\debug\deps\libapprox-e272a7439d64818d.rmeta: C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\Calum\Desktop\Uni Year 2\rust final lab\target\debug\deps\libapprox-e272a7439d64818d.rlib: C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\Calum\Desktop\Uni Year 2\rust final lab\target\debug\deps\approx-e272a7439d64818d.d: C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs
+
+C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\lib.rs:
+C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\abs_diff_eq.rs:
+C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\relative_eq.rs:
+C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\ulps_eq.rs:
+C:\Users\Calum\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.5.1\src\macros.rs:
